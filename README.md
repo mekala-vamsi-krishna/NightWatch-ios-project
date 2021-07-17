@@ -1,5 +1,5 @@
 
-Night Watch App is is used by watchmans, to remind there daily activities. They can check weather the work is done or not, if the work is done they can delete ther by swiping it.
+Night Watch App is is used by watchmans, to remind there daily activities. They can check weather the work is done or not, if the work is done they can delete that particular by swiping it.
 
 
 
